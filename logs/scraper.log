@@ -2443,3 +2443,163 @@ Scraping: it-management
 Total jobs scraped: 1658 2026-05-09 17:26
 Saving 1658 jobs to database...
 Done.
+Starting scraper...
+
+Scraping: back-end-development
+[back-end-development] Page 1 → https://dev.bg/company/jobs/back-end-development/page/1
+[back-end-development] Page 2 → https://dev.bg/company/jobs/back-end-development/page/2
+[back-end-development] Page 3 → https://dev.bg/company/jobs/back-end-development/page/3
+[back-end-development] Page 4 → https://dev.bg/company/jobs/back-end-development/page/4
+[back-end-development] Page 5 → https://dev.bg/company/jobs/back-end-development/page/5
+[back-end-development] Page 6 → https://dev.bg/company/jobs/back-end-development/page/6
+[back-end-development] Page 7 → https://dev.bg/company/jobs/back-end-development/page/7
+[back-end-development] Page 8 → https://dev.bg/company/jobs/back-end-development/page/8
+[back-end-development] Page 9 → https://dev.bg/company/jobs/back-end-development/page/9
+[back-end-development] Page 10 → https://dev.bg/company/jobs/back-end-development/page/10
+[back-end-development] Page 11 → https://dev.bg/company/jobs/back-end-development/page/11
+[back-end-development] Page 12 → https://dev.bg/company/jobs/back-end-development/page/12
+[back-end-development] Page 13 → https://dev.bg/company/jobs/back-end-development/page/13
+[back-end-development] Page 14 → https://dev.bg/company/jobs/back-end-development/page/14
+[back-end-development] Page 15 → https://dev.bg/company/jobs/back-end-development/page/15
+[back-end-development] Page 16 → https://dev.bg/company/jobs/back-end-development/page/16
+[back-end-development] Page 17 → https://dev.bg/company/jobs/back-end-development/page/17
+[back-end-development] Page 18 → https://dev.bg/company/jobs/back-end-development/page/18
+[back-end-development] Page 19 → https://dev.bg/company/jobs/back-end-development/page/19
+[back-end-development] Page 20 → https://dev.bg/company/jobs/back-end-development/page/20
+[back-end-development] Page 21 → https://dev.bg/company/jobs/back-end-development/page/21
+[back-end-development] Page 22 → https://dev.bg/company/jobs/back-end-development/page/22
+[back-end-development] Page 23 → https://dev.bg/company/jobs/back-end-development/page/23
+[back-end-development] Page 24 → https://dev.bg/company/jobs/back-end-development/page/24
+[back-end-development] Page 25 → https://dev.bg/company/jobs/back-end-development/page/25
+[back-end-development] No jobs found → stopping
+
+Scraping: front-end-development
+[front-end-development] Page 1 → https://dev.bg/company/jobs/front-end-development/page/1
+[front-end-development] Page 2 → https://dev.bg/company/jobs/front-end-development/page/2
+[front-end-development] Page 3 → https://dev.bg/company/jobs/front-end-development/page/3
+[front-end-development] Page 4 → https://dev.bg/company/jobs/front-end-development/page/4
+[front-end-development] Page 5 → https://dev.bg/company/jobs/front-end-development/page/5
+[front-end-development] Page 6 → https://dev.bg/company/jobs/front-end-development/page/6
+[front-end-development] Page 7 → https://dev.bg/company/jobs/front-end-development/page/7
+[front-end-development] Page 8 → https://dev.bg/company/jobs/front-end-development/page/8
+[front-end-development] Page 9 → https://dev.bg/company/jobs/front-end-development/page/9
+[front-end-development] Page 10 → https://dev.bg/company/jobs/front-end-development/page/10
+
+Scraping: full-stack-development
+[full-stack-development] Page 1 → https://dev.bg/company/jobs/full-stack-development/page/1
+
+Scraping: operations
+[operations] Page 1 → https://dev.bg/company/jobs/operations/page/1
+[operations] Page 2 → https://dev.bg/company/jobs/operations/page/2
+[operations] Page 3 → https://dev.bg/company/jobs/operations/page/3
+[operations] Page 4 → https://dev.bg/company/jobs/operations/page/4
+[operations] Page 5 → https://dev.bg/company/jobs/operations/page/5
+[operations] Page 6 → https://dev.bg/company/jobs/operations/page/6
+[operations] Page 7 → https://dev.bg/company/jobs/operations/page/7
+[operations] Page 8 → https://dev.bg/company/jobs/operations/page/8
+[operations] Page 9 → https://dev.bg/company/jobs/operations/page/9
+[operations] Page 10 → https://dev.bg/company/jobs/operations/page/10
+[operations] Page 11 → https://dev.bg/company/jobs/operations/page/11
+[operations] Page 12 → https://dev.bg/company/jobs/operations/page/12
+[operations] Page 13 → https://dev.bg/company/jobs/operations/page/13
+[operations] Page 14 → https://dev.bg/company/jobs/operations/page/14
+[operations] Page 15 → https://dev.bg/company/jobs/operations/page/15
+[operations] Page 16 → https://dev.bg/company/jobs/operations/page/16
+[operations] Page 17 → https://dev.bg/company/jobs/operations/page/17
+[operations] Page 18 → https://dev.bg/company/jobs/operations/page/18
+[operations] Page 19 → https://dev.bg/company/jobs/operations/page/19
+[operations] No jobs found → stopping
+
+Scraping: quality-assurance
+[quality-assurance] Page 1 → https://dev.bg/company/jobs/quality-assurance/page/1
+[quality-assurance] Page 2 → https://dev.bg/company/jobs/quality-assurance/page/2
+[quality-assurance] Page 3 → https://dev.bg/company/jobs/quality-assurance/page/3
+[quality-assurance] Page 4 → https://dev.bg/company/jobs/quality-assurance/page/4
+[quality-assurance] Page 5 → https://dev.bg/company/jobs/quality-assurance/page/5
+[quality-assurance] Page 6 → https://dev.bg/company/jobs/quality-assurance/page/6
+[quality-assurance] No jobs found → stopping
+
+Scraping: pm-ba-and-more
+[pm-ba-and-more] Page 1 → https://dev.bg/company/jobs/pm-ba-and-more/page/1
+[pm-ba-and-more] Page 2 → https://dev.bg/company/jobs/pm-ba-and-more/page/2
+[pm-ba-and-more] Page 3 → https://dev.bg/company/jobs/pm-ba-and-more/page/3
+[pm-ba-and-more] Page 4 → https://dev.bg/company/jobs/pm-ba-and-more/page/4
+[pm-ba-and-more] Page 5 → https://dev.bg/company/jobs/pm-ba-and-more/page/5
+[pm-ba-and-more] Page 6 → https://dev.bg/company/jobs/pm-ba-and-more/page/6
+[pm-ba-and-more] Page 7 → https://dev.bg/company/jobs/pm-ba-and-more/page/7
+[pm-ba-and-more] Page 8 → https://dev.bg/company/jobs/pm-ba-and-more/page/8
+[pm-ba-and-more] Page 9 → https://dev.bg/company/jobs/pm-ba-and-more/page/9
+[pm-ba-and-more] Page 10 → https://dev.bg/company/jobs/pm-ba-and-more/page/10
+[pm-ba-and-more] No jobs found → stopping
+
+Scraping: data-science
+[data-science] Page 1 → https://dev.bg/company/jobs/data-science/page/1
+[data-science] Page 2 → https://dev.bg/company/jobs/data-science/page/2
+[data-science] Page 3 → https://dev.bg/company/jobs/data-science/page/3
+[data-science] Page 4 → https://dev.bg/company/jobs/data-science/page/4
+[data-science] Page 5 → https://dev.bg/company/jobs/data-science/page/5
+[data-science] Page 6 → https://dev.bg/company/jobs/data-science/page/6
+[data-science] Page 7 → https://dev.bg/company/jobs/data-science/page/7
+[data-science] Page 8 → https://dev.bg/company/jobs/data-science/page/8
+[data-science] Page 9 → https://dev.bg/company/jobs/data-science/page/9
+[data-science] Page 10 → https://dev.bg/company/jobs/data-science/page/10
+[data-science] Page 11 → https://dev.bg/company/jobs/data-science/page/11
+[data-science] Page 12 → https://dev.bg/company/jobs/data-science/page/12
+[data-science] Page 13 → https://dev.bg/company/jobs/data-science/page/13
+[data-science] No jobs found → stopping
+
+Scraping: erp-crm-development
+[erp-crm-development] Page 1 → https://dev.bg/company/jobs/erp-crm-development/page/1
+[erp-crm-development] Page 2 → https://dev.bg/company/jobs/erp-crm-development/page/2
+[erp-crm-development] Page 3 → https://dev.bg/company/jobs/erp-crm-development/page/3
+[erp-crm-development] Page 4 → https://dev.bg/company/jobs/erp-crm-development/page/4
+[erp-crm-development] Page 5 → https://dev.bg/company/jobs/erp-crm-development/page/5
+[erp-crm-development] Page 6 → https://dev.bg/company/jobs/erp-crm-development/page/6
+[erp-crm-development] No jobs found → stopping
+
+Scraping: mobile-development
+[mobile-development] Page 1 → https://dev.bg/company/jobs/mobile-development/page/1
+[mobile-development] Page 2 → https://dev.bg/company/jobs/mobile-development/page/2
+[mobile-development] Page 3 → https://dev.bg/company/jobs/mobile-development/page/3
+[mobile-development] No jobs found → stopping
+
+Scraping: ui-ux-and-arts
+[ui-ux-and-arts] Page 1 → https://dev.bg/company/jobs/ui-ux-and-arts/page/1
+[ui-ux-and-arts] Page 2 → https://dev.bg/company/jobs/ui-ux-and-arts/page/2
+[ui-ux-and-arts] Page 3 → https://dev.bg/company/jobs/ui-ux-and-arts/page/3
+[ui-ux-and-arts] Page 4 → https://dev.bg/company/jobs/ui-ux-and-arts/page/4
+[ui-ux-and-arts] No jobs found → stopping
+
+Scraping: hardware-and-engineering
+[hardware-and-engineering] Page 1 → https://dev.bg/company/jobs/hardware-and-engineering/page/1
+[hardware-and-engineering] Page 2 → https://dev.bg/company/jobs/hardware-and-engineering/page/2
+[hardware-and-engineering] Page 3 → https://dev.bg/company/jobs/hardware-and-engineering/page/3
+[hardware-and-engineering] No jobs found → stopping
+
+Scraping: customer-support
+[customer-support] Page 1 → https://dev.bg/company/jobs/customer-support/page/1
+[customer-support] Page 2 → https://dev.bg/company/jobs/customer-support/page/2
+[customer-support] No jobs found → stopping
+
+Scraping: technical-support
+[technical-support] Page 1 → https://dev.bg/company/jobs/technical-support/page/1
+[technical-support] Page 2 → https://dev.bg/company/jobs/technical-support/page/2
+[technical-support] Page 3 → https://dev.bg/company/jobs/technical-support/page/3
+[technical-support] Page 4 → https://dev.bg/company/jobs/technical-support/page/4
+[technical-support] Page 5 → https://dev.bg/company/jobs/technical-support/page/5
+[technical-support] Page 6 → https://dev.bg/company/jobs/technical-support/page/6
+[technical-support] Page 7 → https://dev.bg/company/jobs/technical-support/page/7
+[technical-support] No jobs found → stopping
+
+Scraping: junior-intern
+[junior-intern] Page 1 → https://dev.bg/company/jobs/junior-intern/page/1
+
+Scraping: it-management
+[it-management] Page 1 → https://dev.bg/company/jobs/it-management/page/1
+[it-management] Page 2 → https://dev.bg/company/jobs/it-management/page/2
+[it-management] Page 3 → https://dev.bg/company/jobs/it-management/page/3
+[it-management] No jobs found → stopping
+
+Total jobs scraped: 1658 2026-05-10 17:26
+Saving 1658 jobs to database...
+Done.
