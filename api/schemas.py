@@ -84,6 +84,7 @@ class ApplicationCreate(BaseModel):
     notes: Optional[str] = None
 
 
+
 class ApplicationResponse(BaseModel):
     id: int
     job_id: int

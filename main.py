@@ -1,4 +1,6 @@
 from contextlib import asynccontextmanager
+from pathlib import Path
+
 from fastapi import FastAPI
 from fastapi.responses import StreamingResponse
 from api.database import engine
@@ -6,6 +8,7 @@ from api.models import Base
 from api.routers import auth, jobs, users
 from fastapi.middleware.cors import CORSMiddleware
 import httpx
+from fastapi.staticfiles import StaticFiles
 
 
 @asynccontextmanager
@@ -15,6 +18,14 @@ async def lifespan(app: FastAPI):
 
 
 app = FastAPI(lifespan=lifespan)
+
+
+BASE_DIR = Path(__file__).resolve().parent
+STATIC_DIR = BASE_DIR / "uploads"
+
+STATIC_DIR.mkdir(exist_ok=True)
+
+app.mount("/uploads", StaticFiles(directory=STATIC_DIR), name="uploads")
 
 origins = [
     "http://localhost:5173",

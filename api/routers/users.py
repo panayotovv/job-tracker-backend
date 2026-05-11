@@ -7,6 +7,10 @@ from api import crud
 from sqlalchemy import and_
 from datetime import datetime, timedelta
 from sqlalchemy import func
+from fastapi import UploadFile, File
+import os
+import shutil
+import uuid
 
 router = APIRouter(prefix="/users", tags=["users"])
 
@@ -214,3 +218,37 @@ def get_upcoming_interviews(
         }
         for a in interviews
     ]
+
+
+@router.post("/avatar")
+def change_avatar(
+    file: UploadFile = File(...),
+    user: int = Depends(get_current_user),
+    db: Session = Depends(get_db),
+):
+    db_user = db.query(User).filter(User.id == user).first()
+
+    if not db_user:
+        raise HTTPException(status_code=404, detail="User not found")
+
+    if not file.content_type.startswith("image/"):
+        raise HTTPException(status_code=400, detail="File must be an image")
+
+    extension = file.filename.split(".")[-1]
+    filename = f"{uuid.uuid4()}.{extension}"
+
+    file_path = os.path.join("uploads", filename)
+
+    with open(file_path, "wb") as buffer:
+        shutil.copyfileobj(file.file, buffer)
+
+    avatar_url = f"http://localhost:8000/uploads/{filename}"
+
+    db_user.image = avatar_url
+
+    db.commit()
+    db.refresh(db_user)
+
+    return {
+        "image": avatar_url
+    }
