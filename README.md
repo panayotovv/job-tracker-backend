@@ -29,7 +29,7 @@ Your profile page gives you an overview of your job search activity — applicat
 
 ## 📖 Usage
 Sign up or log in to access your dashboard.
-Browse 1,661+ scraped job listings sorted by newest first.
+Browse 1,600+ scraped job listings sorted by newest first.
 Click Apply to go directly to the listing or mark it as applied.
 Track each application through the pipeline as things progress.
 Check your profile for a summary of your job search activity.
